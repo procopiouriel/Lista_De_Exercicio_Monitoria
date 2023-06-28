@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2TWBqoVo+U6IDYmG45rf3aQk7JgQ5PAtPHS5avziXPLnZkJk24XUdTdRNOqQG7NyLlZVm2JLmwsy5RZ0e5RkLg==",
+  "success": true,
+  "projectFilePath": "/Users/urielprocopio/Downloads/ConsoleApp1/4)/4).csproj",
+  "expectedPackageFiles": [
+    "/Users/urielprocopio/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "/Users/urielprocopio/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.16/microsoft.netcore.app.host.osx-x64.6.0.16.nupkg.sha512",
+    "/Users/urielprocopio/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

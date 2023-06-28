@@ -1,0 +1,15 @@
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/bin/Debug/net7.0/12)
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/bin/Debug/net7.0/12).deps.json
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/bin/Debug/net7.0/12).runtimeconfig.json
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/bin/Debug/net7.0/12).dll
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/bin/Debug/net7.0/12).pdb
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/obj/Debug/net7.0/12).csproj.AssemblyReference.cache
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/obj/Debug/net7.0/12).GeneratedMSBuildEditorConfig.editorconfig
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/obj/Debug/net7.0/12).AssemblyInfoInputs.cache
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/obj/Debug/net7.0/12).AssemblyInfo.cs
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/obj/Debug/net7.0/12).csproj.CoreCompileInputs.cache
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/obj/Debug/net7.0/12).dll
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/obj/Debug/net7.0/refint/12).dll
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/obj/Debug/net7.0/12).pdb
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/obj/Debug/net7.0/12).genruntimeconfig.cache
+/Users/urielprocopio/Downloads/ConsoleApp1/12)/obj/Debug/net7.0/ref/12).dll

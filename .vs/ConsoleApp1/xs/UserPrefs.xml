@@ -1,0 +1,58 @@
+﻿<Properties StartupConfiguration="{7071910E-839E-452F-98E1-9DADD3D424BD}|Default">
+  <MonoDevelop.Ide.ItemProperties.23_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.11_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleApp1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.16_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.9_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.13_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.18_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.8_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.12_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.4_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="20)/Program.cs">
+    <Files>
+      <File FileName="6)/Program.cs" />
+      <File FileName="ConsoleApp1/Program.cs" />
+      <File FileName="8)/Program.cs" />
+      <File FileName="9)/Program.cs" />
+      <File FileName="10)/Program.cs" />
+      <File FileName="7)/Program.cs" />
+      <File FileName="5)/Program.cs" />
+      <File FileName="4)/Program.cs" />
+      <File FileName="11)/Program.cs" />
+      <File FileName="12)/Program.cs" />
+      <File FileName="13)/Program.cs" />
+      <File FileName="14)/Program.cs" />
+      <File FileName="15)/Program.cs" />
+      <File FileName="16)/Program.cs" />
+      <File FileName="17)/Program.cs" />
+      <File FileName="23)/Program.cs" />
+      <File FileName="18)/Program.cs" Line="22" Column="46" />
+      <File FileName="20)/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleApp1" expanded="True">
+            <Node name="18)" expanded="True" />
+            <Node name="20)" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="6)" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.15_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.10_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.14_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.20_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.6_229 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
